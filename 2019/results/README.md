@@ -2,7 +2,7 @@
 
 ## Α. Πως δημιουργήθηκαν τα log files
 
-Τα [log files](daily-logs.zip) που δόθηκαν στο Hackahton δημιουργήθηκαν με το εργαλείο [apache-log-generator](https://github.com/theodorosploumis/apache-log-generator) που είναι ένας fake apache log generator σε php και δημιουργήθηκε ειδικά για τις ανάγκες αυτού του Hackathon. 
+Τα [log files](../daily-logs.zip) που δόθηκαν στο Hackahton δημιουργήθηκαν με το εργαλείο [apache-log-generator](https://github.com/theodorosploumis/apache-log-generator) που είναι ένας fake apache log generator σε php και δημιουργήθηκε ειδικά για τις ανάγκες αυτού του Hackathon. 
 
 Για να δείτε ένα παράδειγμα settings παρόμοιο με αυτό που χρησιμοποιήθηκε στο Hackathon δείτε το [settings.example.php](https://github.com/theodorosploumis/apache-log-generator/blob/master/settings.example.php).
 
@@ -23,7 +23,7 @@
 
 Όλες οι ομάδες έλαβαν βαθμούς ανάλογα με την απάντηση που έδωσαν σε κάθε θέμα. Οι χορηγοί συμμετείχαν με ποσοστό 30% στην βαθμολόγηση του UI καθώς και της παρουσίασης που έκαναν οι ομάδες.
 
-Η [αναλυτική βαθμολογία των ομάδων βρίσκεται εδώ](results/team_results_2019.pdf).
+Η [αναλυτική βαθμολογία των ομάδων βρίσκεται εδώ](team_results_2019.pdf).
 
 ----
 
@@ -87,7 +87,7 @@
 
 ## ΣΤ. Attachments
 
-- [Hackathon Team results & Points](results/team_results_2019.pdf)
-- [list-of-attack-suffixes.txt](results/list-of-attack-suffixes.txt)
-- [Log file only with the attack requests](results/only-attacks.log)
-- [LORG, Scalp & Goaccess analysis report](results/attack-reports.zip)
+- [Hackathon Team results & Points](team_results_2019.pdf)
+- [list-of-attack-suffixes.txt](list-of-attack-suffixes.txt)
+- [Log file only with the attack requests](only-attacks.log)
+- [LORG, Scalp & Goaccess analysis report](attack-reports.zip)

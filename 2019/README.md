@@ -48,6 +48,9 @@ REST API για την διασύνδεση με άλλες υπηρεσίες �
 ## Log files
 | Download here: [Server logs for whole day of May 19 2019](daily-logs.zip)
 
+## Αποτελέσματα και λύσεις
+- [Results](results)
+
 ## Παράρτημα
 - Apache2, Common Log Format: https://httpd.apache.org/docs/2.4/logs.html
 - Λέξεις κλειδιά: logging, monitoring, log filtering, log visualization, GeoIP, server http attacks, data aggregation, mapping, regex patterns, GNU zip (gzip), log rotate
