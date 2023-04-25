@@ -1,4 +1,4 @@
-# Serres Hackathon 3.0 - Topic
+# Serres Hackathon 3.0 - Topic (2018)
 
 ## Basic information
 
