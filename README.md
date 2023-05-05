@@ -137,6 +137,7 @@ The GUI should be as much as possible operation-system agnostic.
 
 - All the functions and coding should include meaningful comments above them.
 - Two Shapes cannot overlap when located to the Canvas.
+- A Shape cannot be used more than once in the same solution except if the Task says something different.
 - You can rotate and flip the Shapes unless different mentioned.
 - Shapes cannot be located out of a Canvas.
 - Shapes cannot be located over a black hole on a Canvas.
