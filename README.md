@@ -87,7 +87,7 @@ The 2 Shapes should touch on one or more sides and not overlap. Here is an examp
 | 7 | 10pt | How many unique solutions can you find for a 5×3 Canvas? | Integer |  |
 | 8 | 10pt | How many unique solutions can you find for a 4×15 Canvas? | Integer |  |
 | 9 | 20pt | How many unique solutions can you find for a 3×21 Canvas with 3 black holes as seen on the image below? !["3x21 Canvas with 3 black holes"](images/canvas_3x21_3_black.png) | Integer |  |
-| 10 | 20pt | Which Shapes can be put together to make a copy of the P-shape which is bigger from the original piece. | Letter list |  |
+| 10 | 20pt | Which Shapes can be put together to make a copy of the `P` Shape which is bigger from the original piece. Notice that you can still use letter `P` to create a larger `P`. | Letter list |  |
 
 > **Total: 100pts**.
 
