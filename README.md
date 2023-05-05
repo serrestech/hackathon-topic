@@ -40,6 +40,7 @@ L5: L flipped vertically
 !["Example of L Shape options"](images/l-shape_options.png)
 
 4] Create a function that locates a Shape (rotated/flipped etc) inside a Canvas on any **allowed positions**.
+Example: Given a Canvas and a Shape on any option (e.g. `12x5` with `L1`, see Function from Q3) return  all the possible positions inside the Canvas this Shape option can be added on.
 
 !["Example of a Shape located to a Canvas"](images/locate_shape.png)
 
