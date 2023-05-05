@@ -145,6 +145,10 @@ The GUI should be as much as possible operation-system agnostic.
 
 Notice that the Hackathon [Requirements](https://hackathon.serrestech.gr/pages/requirements) and [Validation](https://hackathon.serrestech.gr/pages/validation) are always active and should be considered.
 
+## Questions, issues etc
+
+- Please add your **questions** on https://github.com/serrestech/hackathon-topic/issues or use the [existing default Issue No1](https://github.com/serrestech/hackathon-topic/issues/1).
+
 ## Appendix
 
 - Color codes by Shape (Letter):
