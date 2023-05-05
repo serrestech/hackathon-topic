@@ -80,9 +80,9 @@ The 2 Shapes should touch on one or more sides and not overlap. Here is an examp
 | No   | Points | Question/Task | Answer type | Your Answer |
 | :--: | ------ | ---- | ---- | ---- |
 | 1 | 5pt | Which is the minimal orthogonal Canvas cells (integer) needed to hold all the 12 Shapes without black cells inside?  | Integer |  |
-| 2 | 5pt | What is the smallest Perimeter of a Group?  | Integer |  |
-| 3 | 5pt | What is the largest Perimeter of a Group?  | Integer |  |
-| 4 | 5pt | Which 2 Shapes can create a square Group?  | Letter list |  |
+| 2 | 5pt | What is the smallest Perimeter of a `Congruent Group`?  | Integer |  |
+| 3 | 5pt | What is the largest Perimeter of a `Congruent Group`?  | Integer |  |
+| 4 | 5pt | Which 2 Shapes can create a square `Congruent Group`?  | Letter list |  |
 | 5 | 10pt | Which 2-Shape Groups look the same (on a 2d representation) with any other 2-Shape Group? | Letter list |  |
 | 6 | 10pt | How many unique solutions can you find for a 3×20 Canvas? | Integer |  |
 | 7 | 10pt | How many unique solutions can you find for a 5×3 Canvas? | Integer |  |
