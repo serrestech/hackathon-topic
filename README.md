@@ -61,7 +61,7 @@ FFLLΙ YFFLΙ ΥFTLΙ ΥΥTLΙ ΥΤΤΤΙ
 ```
 
 7] Create a function that combines 2 different Shapes together so you create a `Congruent Group` or in short a `Group`.
-The 2 Shapes should touch on one or more sides and not overlap. Here is an example:
+The 2 Shapes should touch on one or more sides and not overlap. The 2 Shapes should not "enclose" an empty cell. Here is an example:
 
 !["Group example"](images/group_example.png)
 
