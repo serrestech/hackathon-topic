@@ -1,5 +1,7 @@
 # Serres Hackathon 5.0 (2023) - The tile factory 1981
 
+> [See the 2023 solution](solution)
+
 !["Tile factory machines"](images/tile_factory.jpg)
 [Image source, dreamstime.com](https://www.dreamstime.com/production-line-ceramic-tiles-image138188770)
 
