@@ -147,6 +147,28 @@ The GUI should be as much as possible operation-system agnostic.
 
 Notice that the Hackathon [Requirements](https://hackathon.serrestech.gr/pages/requirements) and [Validation](https://hackathon.serrestech.gr/pages/validation) are always active and should be considered.
 
+## Keywords
+
+- backtracking algorithm
+- depth-first traversal algorithm
+- Exact Cover problem
+- dancing links (DLX)
+- Knuth's Algorithm X
+- Brute force search
+- Constraint programming
+- Integer linear programming (ILP)
+- Boolean satisfiability (SAT) solvers
+- coordinates, matrix, grid, vector
+- polyomino
+
+## Tips and ideas
+
+- Consider using an "anchor" Shape to start the positioning of the Shapes on the Canvas.
+- Some Canvas positions should be disallowed for each Shape by default.
+- You can solve a Canvas problem once and then try to replace or rearrange (rotate, swap, flip) Congruent Groups of Shapes by any means to find out more combinations.
+- You can try fill a Canvas by starting filling its borders clockwise.
+- You can represent the Shapes and Canvas as arrays, matrix, string etc.
+
 ## Questions, issues etc
 
 - Please add your **questions** on https://github.com/serrestech/hackathon-topic/issues or use the [existing default Issue No1](https://github.com/serrestech/hackathon-topic/issues/1).
