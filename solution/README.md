@@ -15,7 +15,7 @@
 | 6 | 10pt | How many unique solutions can you find for a 3×20 Canvas? | Integer | 2, [source](https://isomerdesign.com/Pentomino/3x20/index.html) |
 | 7 | 10pt | How many unique solutions can you find for a 5×3 Canvas? | Integer | 7, [source](https://isomerdesign.com/Pentomino/5x3/index.html) |
 | 8 | 10pt | How many unique solutions can you find for a 4×15 Canvas? | Integer | 368, [source](https://isomerdesign.com/Pentomino/4x15/index.html) |
-| 9 | 20pt | How many unique solutions can you find for a 3×21 Canvas with 3 black holes as seen on the image below? !["3x21 Canvas with 3 black holes"](https://github.com/serrestech/topic/blob/main/images/canvas_3x21_3_black.png) | Integer | 6, [source](https://isomerdesign.com/Pentomino/3x21d) |
+| 9 | 20pt | How many unique solutions can you find for a 3×21 Canvas with 3 black holes as seen on the image below? !["3x21 Canvas with 3 black holes"](../images/canvas_3x21_3_black.png) | Integer | 6, [source](https://isomerdesign.com/Pentomino/3x21d) |
 | 10 | 20pt | Which Shapes can be put together to make a copy of the P-shape which is bigger from the original piece. | Letter list | `ZVVV ZZZV NNZV PNNN PP PP` [image](https://people.rit.edu/mecsma/Professional/Puzzles/Pentominoes/P-A%20Images/image23.gif) |
 
 > **Total: 100pts**.
