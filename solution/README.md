@@ -42,7 +42,7 @@
 | No   | Points | Question/Task | Answer type | Answer |
 | :--: | ------ | ---- | ---- | ---- |
 | 21 | 5pt | Which algorithm did you mainly used to solve the problem?  | Text |  |
-| 22 | 5pt | For Q1, which are the width, height dimensions of the Canvas solutions you found?  | Array of x,y | `4x15, 3x20, 5,12, 6x10` |
+| 22 | 5pt | For Q1, which are the width, height dimensions of the Canvas solutions you found?  | Array of x,y | `4x15, 3x20, 5x12, 6x10` |
 | 23 | 10pt | For Q2, how can you be certain that no other Perimeters could be made?  | Text | [example](https://mathigon.org/task/pentomino-perimeters) |
 | 24 | 15pt | Can you generate the "Tower of Thessaloniki" using all the 12 Shapes? | Letter list | [image](http://www.mayhematics.com/d/d5z11.jpg) |
 | 25 | 15pt | Can you generate a "symmetric butterfly" using all the 12 Shapes? | Letter list | [image](https://static.mathigon.org/cms/9f72086094ef665bcec8b61988499b73.png) |
