@@ -18,7 +18,7 @@
 | 9 | 20pt | How many unique solutions can you find for a 3×21 Canvas with 3 black holes as seen on the image below? !["3x21 Canvas with 3 black holes"](../images/canvas_3x21_3_black.png) | Integer | 6, [source](https://isomerdesign.com/Pentomino/3x21d) |
 | 10 | 20pt | Which Shapes can be put together to make a copy of the P-shape which is bigger from the original piece. | Letter list | `ZVVV ZZZV NNZV PNNN PP PP` [image](https://people.rit.edu/mecsma/Professional/Puzzles/Pentominoes/P-A%20Images/image23.gif) |
 
-\* Unique solutions: Where the answer is not a result of a simple rotation or flip of the whole (solved) canvas. If we do so all the answers provided here should be multiplied with the number `4`.
+\* Unique solutions: Where the answer is not a result of a simple rotation or flip of the whole (solved) canvas. If we do so all the answers provided here should be multiplied by number `4`.
 
 > **Total: 100pts**.
 
